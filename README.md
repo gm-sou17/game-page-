@@ -1,2 +1,3 @@
 # game-page
-this is a basic webpage in this have a small game structure etc.
+it is a basic webpage in this have a small game structure  using html and css etc.
+
